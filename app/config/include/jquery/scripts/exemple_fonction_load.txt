@@ -1,0 +1,33 @@
+<div class="loadText">
+    <h4>Mes passions</h4>
+    <hr>
+    <p>Je ne vous le cache pas j'ai franchement pas mal de passion dans la vie.</p>
+    <ol>
+        <li>Ma femme et mes trois enfants</li>
+        <li>Les langages informatiques</li>
+            <ul>
+                <li>HTML 5 (bonne base)</li>
+                <li>CSS 3 (bonne base)</li>
+                <li>Bootstrap 3 & 4 (bonne base)</li>
+                <li>JavaScript (novice)</li>
+                <li>JQuery (novice)</li>
+                <li>Angular 2 (en cours d'apprentissage)</li>
+                <li>Emmet (notion)</li>
+                <li>Sass (en cours d'apprentissage)</li>
+                <li>Less (en cours d'apprentissage)</li>
+                <li>php (en cours d'apprentissage)</li>
+                <li>mysql (en cours d'apprentissage)</li>
+                <li>poo (en cours d'apprentissage)</li>
+                <li>La sécurité (en cours d'apprentissage)</li>
+                <li>Wordpress (novice)</li>
+                <li>Laravel (Sur ma liste des envies)</li>
+                <li>Synfony 3 (Sur ma liste des envies)</li>
+                <li>Ajax (Sur ma liste des envies)</li>
+            </ul>
+        <li>Le cinéma</li>
+        <li>Les parcs d'attractions</li>
+        <li>L'olympique Lyonnais</li>
+        <li>Le Handball</li>
+        <li>Le partage</li>
+    </ol>
+</div>
